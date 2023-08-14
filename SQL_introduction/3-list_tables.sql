@@ -1,3 +1,2 @@
---A script that lists all the tables of a database
-USE database_name;
+-- Lists all tables of a database.
 SHOW TABLES;
