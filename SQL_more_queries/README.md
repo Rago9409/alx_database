@@ -1,0 +1,10 @@
+-- lists all privileges of MySQL users user_0d_1 and user_0d_2
+- creates MySQL server user user_0d_1 with all privileges
+--creates database hbtn_0d_2 and user user_0d_2
+--creates table force_name on MySQL server
+--creates table id_not_null on MySQL server
+--creates table unique_id on MySQL server
+--creates database hbtn_0d_usa and table states
+--creates database hbtn_0d_usa and table cities with id, state_id, and name
+--lists all the cities of California in current database
+--lists all the cities in current database, sorted by cities.id in ascending order
